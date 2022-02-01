@@ -1,2 +1,4 @@
-# Hospital management system 
-A complete responsive hospital website using HTML&amp;CSS , javascript, jquery and bootstrap.
+# Welcome to Hospital Management system 
+
+A Hospital Management System , Patient management system and administration system.
+
